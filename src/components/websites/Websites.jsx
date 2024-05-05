@@ -8,28 +8,22 @@ import Website3 from "../../assets/portfolio3.png"
 import Website4 from "../../assets/portfolio4.png"
 
 const websitesData = [
-{
-  id:1,
-  image:Website1,
-  title:'Portfolio Website 1',
-  github:"https://github.com/hsharma700/portfolio",
-  live:'https://hsharma700.github.io/portfolio'
-},
+
 {
   id:2,
   image:Website2,
-  title:'Netflix Clone 1',
+  title:'Netflix Clone',
 
-  github:"https://github.com/hsharma700/netflix_clone1",
+  github:"https://net-clone1.netlify.app",
   live:'https://hsharma700.github.io/'
 },
 {
   id:3,
   image:Website3,
-  title:'Sample Website 1',
+  title:'Logihunt',
 
   github:"https://github.com/hsharma700/website1",
-  live:'https://hsharma700.github.io/website1/'
+  live:'https://logi2024.netlify.app'
 },
 {
   id:4,
