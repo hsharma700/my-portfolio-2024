@@ -13,8 +13,8 @@ const websitesData = [
   image:Website2,
   title:'Netflix Clone',
 
-  github:"https://net-clone1.netlify.app",
-  live:'https://hsharma700.github.io/'
+  github:"https://github.com/hsharma700/netflix-clone-2024",
+  live:'https://net-clone1.netlify.app'
 },
 {
   id:3,
