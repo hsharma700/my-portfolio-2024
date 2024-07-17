@@ -2,11 +2,20 @@ import React,{useRef} from 'react'
 import "./websites.scss";
 import {motion,useInView} from "framer-motion";
 
+import Website1 from "../../assets/knowyourcountry.png"
 import Website2 from "../../assets/portfolio2.png"
 import Website3 from "../../assets/portfolio3.png"
 import Website4 from "../../assets/portfolio4.png"
 
+
 const websitesData = [
+  {
+    id:1,
+    image:Website1,
+    title:'Know Your Country',
+
+    live:'https://knowurcountry.netlify.app/'
+  },
 
 {
   id:2,
