@@ -4,7 +4,7 @@ import {motion} from "framer-motion";
 function Dwn() {
   return (
     <div className="dwn">
-        <motion.a href="https://www.canva.com/design/DAGDNXRSXMk/sXXgFwCKaVa_jh1GBWHlBw/edit?utm_content=DAGDNXRSXMk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" className='btn'
+        <motion.a href="https://www.canva.com/design/DAGe9ObIvtU/Yu0ivWDjxZHYBGLdpY6LjQ/edit" className='btn'
         initial={{opacity:0, x:-100}}
         animate={{opacity:1, x:0}}
         exit={{}}
