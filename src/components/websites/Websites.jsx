@@ -3,7 +3,7 @@ import "./websites.scss";
 import {motion,useInView} from "framer-motion";
 
 import Website1 from "../../assets/portfolio1.png"
-import Website2 from "../../assets/KnowyourcountryReact.png"
+import Website2 from "../../assets/website2.png"
 import Website3 from "../../assets/portfolio2.png"
 import Website4 from "../../assets/portfolio3.png"
 
