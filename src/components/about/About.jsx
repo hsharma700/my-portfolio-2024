@@ -65,7 +65,7 @@ function About() {
                 <article className='experience_details'>
                   <IoCheckmarkDoneSharp/>
                   <div>
-                  <h4>React</h4>
+                  <h4>Wordpress</h4>
                   <small className='text-light'>Intermediate</small>
                   </div>
                   
