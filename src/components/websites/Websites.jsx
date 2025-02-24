@@ -63,7 +63,6 @@ function Websites() {
         </div>
           <h3>{item.title}</h3>
           <div className='portfolio_item-cta'>
-          <a href={item.github} className='btn' rel="noreferrer" target="_blank">Github</a>
           <a href={item.live} className='btn btn-primary' rel="noreferrer" target="_blank">Live View</a>
           </div>
       </motion.article>
