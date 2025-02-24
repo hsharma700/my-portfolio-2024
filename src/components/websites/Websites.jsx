@@ -2,53 +2,38 @@ import React,{useRef} from 'react'
 import "./websites.scss";
 import {motion,useInView} from "framer-motion";
 
-import Website1 from "../../assets/KnowyourcountryReact.png"
-import Website2 from "../../assets/knowyourcountry.png"
+import Website1 from "../../assets/portfolio1.png"
+import Website2 from "../../assets/KnowyourcountryReact.png"
 import Website3 from "../../assets/portfolio2.png"
 import Website4 from "../../assets/portfolio3.png"
-import Website5 from "../../assets/portfolio4.png"
 
 
 const websitesData = [
   {
     id:1,
     image:Website1,
-    title:'Know Your Country (React)',
-    github:"https://github.com/hsharma700/knowyourcountryR",
-    live:'https://knowyourcountry1.netlify.app/'
+    title:'WebWizard',
+    live:'https://webwizard.hsweb.site/'
   },
   {
     id:2,
     image:Website2,
-    title:'Know Your Country',
-    github:"https://github.com/hsharma700/knowyourcountry",
-    live:'https://knowurcountry.netlify.app/'
+    title:'Know Your Country (React)',
+    live:'https://knowyourcountry1.netlify.app/'
   },
 
 {
   id:3,
   image:Website3,
   title:'Netflix Clone',
-
-  github:"https://github.com/hsharma700/netflix-clone-2024",
   live:'https://net-clone1.netlify.app'
 },
 {
   id:4,
   image:Website4,
   title:'Logihunt',
-
-  github:"https://github.com/hsharma700/website1",
   live:'https://logi2024.netlify.app'
-},
-{
-  id:5,
-  image:Website5,
-  title:'Sample Website 2',
-
-  github:"https://github.com/hsharma700/cloudNow",
-  live:'https://hsharma700.github.io/cloudNow/'
-},
+}
 ]
 
 
