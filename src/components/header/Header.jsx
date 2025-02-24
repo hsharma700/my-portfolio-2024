@@ -1,7 +1,7 @@
 import React from "react";
 import "./header.scss";
 import Dwn from "./Dwn";
-import ME from '../../assets/myImage.png';
+// import ME from '../../assets/myImage.png';
 import {motion} from "framer-motion"
 function Header() {
   return (
