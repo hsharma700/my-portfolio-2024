@@ -33,14 +33,14 @@ function Header() {
         
         >Front-End Developer</motion.h5>
         <Dwn />
-{/*         <motion.div className="me"
+        <motion.div className="me"
         initial={{opacity:0}}
         animate={{opacity:1}}
         exit={{}}
         transition={{duration:1,delay:2.5}}
         >
           <img src={ME} alt="me" />
-        </motion.div> */}
+        </motion.div>
         <a href="#contact" className="scroll_down">Scroll Down</a>
       </div>
     </motion.header>
