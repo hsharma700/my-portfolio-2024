@@ -1,6 +1,6 @@
 import React, { useRef } from 'react'
 import "./about.scss";
-// import ME from "../../assets/myImage.png"
+import ME from "../../assets/myImage.png"
 import {IoCheckmarkDoneSharp} from 'react-icons/io5'
 import {motion, useInView} from "framer-motion";
 function About() {
