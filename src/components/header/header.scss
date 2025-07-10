@@ -22,31 +22,31 @@ margin-bottom: 2rem;
 
 /*======ME=======*/
 
-// .me{
-//     // background: linear-gradient(transparent,var(--color-primary));
-//     width: 20rem;
-//     height: 21rem;
-//     position: relative;
-//     left: calc(50% - 10rem);
-//     border-radius: 2rem;
-//     overflow: hidden;
-//     padding: 2rem 0;
-//     background: linear-gradient(120deg,transparent, var(--color-primary), transparent);
-//     animation: gradientMovement 6s infinite ease-in-out;
-//     background-size: 300%;
+.me{
+ background: linear-gradient(transparent,var(--color-primary));
+     width: 20rem;
+     height: 21rem;
+     position: relative;
+     left: calc(50% - 10rem);
+    border-radius: 2rem;
+     overflow: hidden;
+    padding: 2rem 0;
+     background: linear-gradient(120deg,transparent, var(--color-primary), transparent);
+     animation: gradientMovement 6s infinite ease-in-out;
+    background-size: 300%;
     
-// }
+}
 
-// @keyframes gradientMovement {
-//     0%{
-//         background-position:left;
-//     }50%{
-//         background-position: right;
-//     }
-//     100%{
-//         background-position:left;
-//     }
-// }
+ @keyframes gradientMovement {
+     0%{
+         background-position:left;
+     }50%{
+         background-position: right;
+    }
+   100%{
+         background-position:left;
+    }
+ }
 
 /*======Scroll-Down=======*/
 
