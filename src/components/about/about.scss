@@ -8,35 +8,35 @@
 }
 
 
-// .about_me{
-//     width: 70%;
-//     aspect-ratio: 1/1;
-//     border-radius: 2rem;
-//     background: linear-gradient(
-//         45deg,
-//         transparent,
-//         var(--color-primary),
-//         transparent
-//     );
-//     display: grid;
-//     place-items: center;
-// }
+ .about_me{
+     width: 70%;
+     aspect-ratio: 1/1;
+     border-radius: 2rem;
+     background: linear-gradient(
+         45deg,
+         transparent,
+         var(--color-primary),
+         transparent
+     );
+     display: grid;
+     place-items: center;
+ }
 
-// .about_me-image{
-//     background: linear-gradient(
-//         135deg,
-//         transparent,
-//         var(--color-primary),
-//         transparent
-//     );
-//     border-radius: 2rem;
-//     overflow: hidden;
-//     transform: rotate(10deg);
-//     transition: var(--transition);
-// }
-// .about_me-image:hover{
-//     transform: rotate(0);
-// }
+ .about_me-image{
+     background: linear-gradient(
+         135deg,
+         transparent,
+         var(--color-primary),
+         transparent
+     );
+     border-radius: 2rem;
+     overflow: hidden;
+     transform: rotate(10deg);
+     transition: var(--transition);
+ }
+ .about_me-image:hover{
+     transform: rotate(0);
+ }
 
 
 .my_details{
@@ -89,10 +89,10 @@
         grid-template-columns: 1fr;
     }
    
-    // .about_me{
-    //     width: 40%;
-    //     margin: 2rem auto 4rem;
-    // }
+     .about_me{
+         width: 40%;
+         margin: 2rem auto 4rem;
+     }
     .my_details{
         grid-template-columns: 1fr;
         margin-bottom: 5rem;
